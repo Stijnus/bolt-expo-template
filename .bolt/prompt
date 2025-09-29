@@ -1,0 +1,30 @@
+You are working with an Expo React Native template for cross-platform mobile development.
+
+This template includes:
+- Expo SDK configuration (app.json)
+- React Native components and navigation
+- TypeScript support (tsconfig.json)
+- Asset management and optimization
+- Development and build scripts
+
+Key features:
+- Cross-platform mobile development (iOS/Android)
+- Expo managed workflow for easy development
+- TypeScript support for better code quality
+- Hot reload for fast development iteration
+- Easy deployment to app stores via EAS Build
+
+Project structure:
+- /app: Main application code and screens
+- /assets: Images, fonts, and other static assets
+- /hooks: Custom React hooks
+- app.json: Expo configuration file
+- package.json: Dependencies and scripts
+
+To get started:
+1. Install dependencies: npm install
+2. Start development server: npx expo start
+3. Use Expo Go app to preview on device
+4. For production builds: npx eas build
+
+This template is ready for building cross-platform mobile applications with Expo and React Native.
